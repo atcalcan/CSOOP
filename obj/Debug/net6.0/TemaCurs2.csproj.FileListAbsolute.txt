@@ -1,0 +1,15 @@
+/media/alex/USB/dotnet/TemaCurs2/bin/Debug/net6.0/TemaCurs2
+/media/alex/USB/dotnet/TemaCurs2/bin/Debug/net6.0/TemaCurs2.deps.json
+/media/alex/USB/dotnet/TemaCurs2/bin/Debug/net6.0/TemaCurs2.runtimeconfig.json
+/media/alex/USB/dotnet/TemaCurs2/bin/Debug/net6.0/TemaCurs2.dll
+/media/alex/USB/dotnet/TemaCurs2/bin/Debug/net6.0/TemaCurs2.pdb
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.csproj.AssemblyReference.cache
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.GeneratedMSBuildEditorConfig.editorconfig
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.AssemblyInfoInputs.cache
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.AssemblyInfo.cs
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.csproj.CoreCompileInputs.cache
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.dll
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/refint/TemaCurs2.dll
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.pdb
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/TemaCurs2.genruntimeconfig.cache
+/media/alex/USB/dotnet/TemaCurs2/obj/Debug/net6.0/ref/TemaCurs2.dll

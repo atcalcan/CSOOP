@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/alex/.nuget/packages/": {}
+    "C:\\Users\\Alex\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/alex/USB/dotnet/TemaCurs2/TemaCurs2.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_2\\TemaCurs2.csproj",
       "projectName": "TemaCurs2",
-      "projectPath": "/media/alex/USB/dotnet/TemaCurs2/TemaCurs2.csproj",
-      "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/media/alex/USB/dotnet/TemaCurs2/obj/",
+      "projectPath": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_2\\TemaCurs2.csproj",
+      "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alex\\Documents\\Calcan_Alex_Tema_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alex/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/187/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
